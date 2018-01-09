@@ -1,12 +1,12 @@
-# _Pet Project_
+# _Pet Project REDUX_
 
-#### _This project gives information on Cameron's dog and also has another page with our other pet., 01/02/17_
+#### _This project updates the pet project with jQuery_
 
-#### By _**Logan Tanous, Cameron Anderson**_
+#### By _**Logan Tanous, Andy Grossberg**_
 
 ## Description
 
-_This project gives information on Cameron's dog and also has another page with our other pet. There are a lot of details on what the animals do and any other information that a user or other developers would want to have._
+_This project alters last week's pet website. It changes the screen colors and text color._
 
 ## Setup/Installation Requirements
 
@@ -22,10 +22,10 @@ _Contact us at 555-555-1337_
 
 ## Technologies Used
 
-_Used HTML, CSS and even incorporated IDs and classes :o_
+_Used HTML, CSS, Bootstrap, jQuery, javascript, etc._
 
 ### License
 
-*MIT Licensing*
+*GPL*
 
-Copyright (c) 2018 **_Cam-tan incorporated_**
+Copyright (c) 2018 **_LTAG ltd_**
