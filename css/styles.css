@@ -1,7 +1,7 @@
 body {
-  background-color:grey;
+  /*background-color:grey;
   color: white;
-  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;*/
   text-align: center;
 }
 
@@ -56,4 +56,39 @@ li {
 a {
   color:blue;
   font-weight: normal;
+}
+
+.light-dark {
+  background-color: #3e3e3e;
+  color: #aaaaaa;
+  font-weight: bold;
+}
+
+.dark-light {
+  background-color: #0f0f0f;
+  color: #afafaf;
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+  color: #aaaaaa;
+  font-weight: bold;
+  width: 100%;
+  border: 2px solid purple;
+  padding: .33em;
+}
+
+p {
+  cursor: pointer;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
